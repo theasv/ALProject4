@@ -20,7 +20,7 @@ table 50128 "Example Line"
         {
             DataClassification = CustomerContent;
             Caption = 'Example No.';
-            TableRelation = "Example";
+
         }
         field(4;"Line Date"; Date)
         {
